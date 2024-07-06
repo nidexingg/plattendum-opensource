@@ -1,0 +1,89 @@
+{
+  "seo": {
+    "description": "Plattendum គឺជាកម្មវិធីកត់ត្រានូវអ្នកចូលរួមក្នុងព្រឹត្តិការណ៍រហ័ស បង្កើតដោយកូនខ្មែរស្មោះស្នេហ៍ មិនចេះញ៉ែស្រី។"
+  },
+  "signin": {
+    "header": "Authentication",
+    "txtline1": "Create Plattendum account",
+    "txtline2": "with a single click below:",
+    "btntxt": "Sign in/up with Google"
+  },
+  "navbar": {
+    "home": "Home",
+    "create": "Create",
+    "join": "Join",
+    "settings": "Settings"
+  },
+  "title": {
+    "auth": "Plattendum - Authentication",
+    "home": "Plattendum - Dashboard",
+    "create": "Plattendum - Create Event",
+    "join": "Plattendum - Joined Event",
+    "settings": "Plattendum - Settings"
+  },
+  "home": {
+    "header": "Dashboard",
+    "my_event": "My Event",
+    "joined_event": "Joined Event",
+    "search": "Search event",
+    "attendee": "Attendee",
+    "created_on": "Created on",
+    "host": "Host",
+    "joined_at": "Joined at",
+    "export": "Export data as Excel",
+    "export_toast": "Exported successfully"
+  },
+  "create": {
+    "header": "Create Event",
+    "eventname_phd": "Give your event a name...",
+    "policies": "*Instruction & Policy:",
+    "policy1": "1. You can only create an event in a timeline with unlimited of duration and attendee as long as you closed the event.",
+    "policy2": "2. Only you can see the number and detail such as name, date and attending timestamp of the attendee in the event you created.",
+    "policy3": "3. Once you created the event, you are inaccessible to navigation bar unless you closed the event.",
+    "policy4": "4. If you close tab or config URL or some other actions that lead to cut off the progress of event, thus event would automatically be ended.",
+    "policy5": "5. You logically can host only an event at a moment.",
+    "create": "Create",
+    "qrcode": "QR Code",
+    "attendee_list": "Attendee List",
+    "instruction1": "Let your attendee scan this QR code to note into the attendance list.",
+    "instruction2": "If you're on browser, do not close tab, config URL or any acts that lead to cut off the progress of event otherwise the event is automatically ended.",
+    "terminate": "Terminate event",
+    "terminate_prompt": "Are you sure you want to end the event? This action cannot be undone.",
+    "success": "You've sucessfully created an event!"
+  },
+  "join": {
+    "header": "Join Event",
+    "instruction1": "Aim you camera closer to the host’s device to scan QR code. Once you saw the dialogue pops up, you're automatically joined the event.",
+    "instruction2": "If you encounter error or see blank, please give permission to access the CAMERA/WEBCAM otherwise you're not able to scan the QR code.",
+    "camera": "Select the camera:"
+  },
+  "settings": {
+    "header": "Settings",
+    "editprofile" : "Edit your profile",
+    "created_on": "Created on",
+    "signout": "Sign out",
+    "language": "Internationalization",
+    "theme": "Theme",
+    "system": "System",
+    "sepia": "Sepia",
+    "light": "Light",
+    "dark": "Dark (Beta)",
+    "confirm": "Are you sure you want to sign out from your account?",
+    "report": "Having an issue?"
+  },
+  "event_detail": {
+    "attendee": "Attendee",
+    "created_on": "Created on",
+    "joined_at": "Joined at"
+  },
+  "reportissue": {
+    "header": "Report Issue & Feedback",
+    "reporter": "Reporter",
+    "email": "Email Address",
+    "message": "Message",
+    "submit": "Submit",
+    "toast": "Your report submitted successfully.",
+    "sweetalertheader": "Submitting your report...",
+    "sweetalerttext": ""
+  }
+}
